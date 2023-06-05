@@ -102,6 +102,8 @@ Since the ELO ranking contains 30 members, I compared the remaining drivers with
 
 We can conclude that the clustering process was able to split drivers into valuable groups based on their skill to win, being the two clusters with the best drivers, comparable to external rankings that uses additional data, and more complex- classical algorithm to order the drivers. 
 
-## Repository organization
+## Results Dashboard
+
+[Power BI TFM Results Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTI3ZTE3NjItYWVkOS00M2UzLTg3MWYtZGNlMTZmODdmODM2IiwidCI6ImU3ZjUzZjNmLTYzNmItNDNhZC04MDdlLTU3Yzk2NmZmN2RiOCIsImMiOjh9)
 
  

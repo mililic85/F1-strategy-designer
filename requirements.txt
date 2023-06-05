@@ -9,4 +9,3 @@ seaborn
 bs4
 pathvalidate
 MarkupSafe==2.0.1
-pathvalidate
